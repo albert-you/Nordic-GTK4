@@ -15,6 +15,13 @@ gsettings set org.gnome.desktop.wm.preferences theme "Nordic"
 ```
 or Change via distribution specific tweak tool.
 
+##### Fedora (41+)
+
+1. Copy `assets` folder to `/.config`.
+2. Copy `gtk.css` and `gtk-dark.css` to `/.config/gtk-4.0`.
+
+NOTE: Nothing needs to be copied to `/.config/gtk-4.0`.
+
 ## Firefox theme
 
 If you're a firefox user you should give a try to the awesome [Nordic theme for firefox](https://github.com/EliverLara/firefox-nordic-theme).
