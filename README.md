@@ -3,7 +3,7 @@
 
 > Nordic is a Gtk3.20+ theme created using the awesome [Nord](https://github.com/arcticicestudio/nord) color palette.
 
-#### Installation
+## Installation
 
 Extract the zip file to the themes directory i.e. `/usr/share/themes/` or `~/.themes/` (create it if necessary).
 
@@ -15,7 +15,7 @@ gsettings set org.gnome.desktop.wm.preferences theme "Nordic"
 ```
 or Change via distribution specific tweak tool.
 
-##### Fedora (41+)
+### Fedora (41+)
 
 1. Copy `assets` folder to `/.config`.
 2. Copy `gtk.css` and `gtk-dark.css` to `/.config/gtk-4.0`.
